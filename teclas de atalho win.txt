@@ -1,3 +1,5 @@
+﻿*** Teclas de Atalhos para Windows ***
+
 1 - win - Aciona o menu.
 2 - Win + A - Abre a central de ações.
 3 - win + B - Seleciona icones da area de notificação.
