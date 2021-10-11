@@ -1,0 +1,61 @@
+1 - win - Aciona o menu.
+2 - Win + A - Abre a central de ações.
+3 - win + B - Seleciona icones da area de notificação.
+
+4 - win + CTRL + B - Abre o programa que estiver mostrando uma nova msg na area de notificação.
+5 - Win + C - Abre a cortana.
+6 - win + D - Mostra area de trabalho.
+7 - Win + E - Windows explorer. 
+8 - win + F - Abre o hub de feedback.
+9 - win + CTRL + F - Procurar computadores na rede.
+10 - Win + G - Abre a barra de jogo. Win + Alt + R - Inicia a gravação.
+11 - Win + K Abre a janela conectar.
+12 - Win + L - Bloquear tela
+13 - Win + M - Minimiza todas as janelas
+14 - win + Shift + M - Recuperar a ultima janela minimizada.
+15 - win + P - modo de exibição da apresentação. 
+16 - Win + Q - Pesquisar dentro de um palicativo aberto.
+17 - Win + R - Abre executar.
+18 - Win + T - Muda o foco para barra de tarefas.
+19 - Win + Numero - Navega entre os aplicativos na barra de tarefas.
+20 - Win + U - Abre acessibilidade.
+21 - Win + w - Anotações e capturas de tela.
+22 - Win + X - Menu de contexto.
+23 - Win + H - digita a fala no editor de texto.
+24 - Win + Shif + S - Captura de tela ou Win + Printscreen - Faz captura de tela.
+25 - Win + procurar o app meu telefone.
+26 - Win + procurar o app assitencia rapida.
+27 - Win + procurar por Notas auto-adesivas.
+28 - Win + V - Mostra conteudo da area de transferencia.
+29 - Win + . - abre a tela de emoji.
+30 - Win + + - Zoom
+31 - win + i - Abre configurações.
+32 - Win + , - Mostra a area de trabalho do windows.
+33 - Win + Tab - Mostra janelas abertas.
+34 - Win + CTRL + F4 - Fecha uma area de trabalho.
+35 - CTRL + Win + D - Nova area de trabalho.
+36 - CTRL + Win + seta - Para alternar entre areas.
+37 - Alt + Tab - Alterna entre janelas abertas.
+38 - Alt + CTRL + Tab - Mantem na tela a janela alternar programas.
+39 - Alt + F4 - Fecha uma janela ou mostra caixa de dialogo desligar quando não tem janelas abertas.
+40 - Alt + P - Mostra previsualização de um arquivo ou imagem.
+41 - CTRL + C - Copiar
+42 - CTRL + X - Recortar
+43 - CTRL + V - Colar
+44 - CTRL + Z - Desfazer
+45 - CTRL + Y - Refazer
+46 - CTRL + F - Pesquisar ou CTRL + E para procurar no windows explorer.
+47 - CTRL + Seta - Navega entre palavras em um editor de texto.
+48 - CTRL + Home - Volta para o começo do texto.
+49 - CTRL + End - Vai para o final do texto.
+50 - CTRL + Backspace ou delete - Apaga palavra por palavra.
+51 - CTRL + Alt + Delete - Mostra tela de opções mudar senha.
+52 - CTRL + Shift + Esc - Abre o gerenciador de tarefas.
+53 - CTRL + W ou F4 - Fecha uma janela no navegador.
+54 - CTRL + Shift + T - Abre a ultima janela fechada.
+55 - CTRL + Numero - Navega entre as abas do navegador.
+56 - Shift + Delete - Exclui um arquivo.
+57 - 
+
+
+
